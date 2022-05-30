@@ -8,3 +8,10 @@
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 # Open edX Github Actions
+
+This is a community supported organization focused on providing reliable CI automation tools for Open edX software deployed to Kubernetes with Tutor.
+
+## Contact:
+
+Lawrence McDaniel [lpm0073@gmail.com](mailto:lpm0073@gmail.com)
+[https://lawrencemcdaniel.com](https://lawrencemcdaniel.com)
